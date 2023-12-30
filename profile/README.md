@@ -1,8 +1,14 @@
-![Auto Assign](https://github.com/CanariaView/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
+# CanariaView
 
-![Proof HTML](https://github.com/CanariaView/demo-repository/actions/workflows/proof-html.yml/badge.svg)
+## About Us
+**CanariaView**, inspired by the "canary in the coal mine," a symbol of early warning against looming dangers, is focused on providing supply chain risk solutions through predictive analytics in copper supply and demand. This project was developed as part of the 2nd KITA Digital Master Course organized by the Korea International Trade Association (KITA) Trade Academy and has been recognized as an outstanding project in the course.
 
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+## Our Service
+- Target Audience: Raw material import/export companies and governments.
+- Objective: To assist in decision-making during unstable supply chain crises by predicting future supply and demand of raw materials.
+- Insightful Analysis: CanariaView offers preemptive responses to changes in copper supply based on economic and industrial indicators.
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+## Our Model
+- Purpose: Building a model to stabilize copper supply and demand through the analysis of economic and industrial indicators.
+- Methodology: Developed two models using LSTM: a Copper Demand Prediction Model and a Copper Supply Prediction Model.
+- Our Goal: To provide insights into copper supply forecasts for manufacturing and export companies that import copper.
